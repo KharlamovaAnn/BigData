@@ -118,7 +118,7 @@
 ---
 
 ## 3. Схема архитектуры
-![](files/image.png)
+![](phoro/iot_architecture.png)
 
 ---
 
